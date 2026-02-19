@@ -1,0 +1,8 @@
+# requirements.txt
+# Minimal dependencies for the Streamlit distribution teaching app (V0/V0+ overlay)
+
+streamlit>=1.30
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
